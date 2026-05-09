@@ -18,7 +18,7 @@
 
 ## 一本手册，从零基础到企业级AI落地
 
-<img src="./aibook.png" alt="ai全栈学习手册" />
+<img src="https://next.jitword.com/uploads/aibook_19e0aa3631b.png" alt="ai全栈学习手册" />
 
 **不是泛泛而谈的入门科普，是有代码、有项目、有变现路径的实战手册**
 
