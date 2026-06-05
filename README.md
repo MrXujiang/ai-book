@@ -54,7 +54,9 @@ AI 副业接单、独立产品、AI 创业三条完整路径，附30天冷启动
 </table>
 
 
-**[🚀 立即购买](https://aibook.mvtable.com) · [📖 预览内容](https://aibook.mvtable.com) · [💬 扫码咨询](#-如何购买)**
+<div align="center">
+  **[🚀 立即购买](https://aibook.mvtable.com) · [📖 预览内容](https://aibook.mvtable.com) · [💬 扫码咨询](#-如何购买)**
+</div>
 
 ---
 
@@ -431,7 +433,7 @@ AI 副业接单、独立产品、AI 创业三条完整路径，附30天冷启动
 <tr>
 <td width="48%" valign="top">
 
-### Pro 版 · `¥39.9`
+### Pro 版 · `¥49.9`
 <sub>~~原价 ¥99~~</sub>
 
 **完整阅读权限 · 买断制 · 永久更新**
