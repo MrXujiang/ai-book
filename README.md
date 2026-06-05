@@ -29,6 +29,33 @@
 
 </div>
 
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🛠️ 技术硬实力
+
+掌握 2026 年主流 AI 技术全栈：Prompt / RAG / Agent / 微调 / 多模态，5 个可运行实战项目直接写入简历
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ 工程化思维
+
+独创 **Skills + CLI + Harness** 黄金三层架构，掌握 AI 应用从 Demo 到生产环境的全链路工程化能力
+
+</td>
+<td width="33%" align="center">
+
+### 💰 商业变现
+
+AI 副业接单、独立产品、AI 创业三条完整路径，附30天冷启动手册、定价策略与报价模板
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## ✨ 你将收获什么
