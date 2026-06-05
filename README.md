@@ -26,6 +26,8 @@
 
 </div>
 
+**[🚀 立即购买](https://aibook.mvtable.com) · [📖 预览内容](https://aibook.mvtable.com) · [💬 扫码咨询](#-如何购买)**
+
 ---
 
 ## ✨ 你将收获什么
